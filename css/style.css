@@ -1,0 +1,26 @@
+.area {
+    background-color: lightgrey;
+}
+
+.jumbotron {
+    margin-left: 10px;
+}
+
+.forecast {
+    margin-left: 10px;
+}
+
+.col-md-2 {
+    margin: 0 12px;
+}
+
+.title {
+    font-size: 40px;
+    padding: 0;
+    margin-top: 0;
+}
+
+.container {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
